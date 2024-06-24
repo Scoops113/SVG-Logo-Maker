@@ -6,3 +6,4 @@ SVG Logo Maker is a Node.js command-line application that allows users to genera
 
 ## Walkthrough
 
+[Link to Screencastify Video Walkthrough](https://app.screencastify.com/v2/manage/videos/gNqvIphmTtMT9PxQedcm)
